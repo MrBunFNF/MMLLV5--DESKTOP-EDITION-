@@ -8,4 +8,4 @@ PORT MADE BY LITTLE SKUMZ
 
 HUGE THXS TO NAXINET, ACSMAN, ANGELPLAY3, LUMA, BUGGLES, STAVRATUM, TOADSTOLS, TOADR, AND SEAL|
 
-# This is still underdev {Curretly on V0.2.5}
+# This is still underdev {Curretly on V0.3}
