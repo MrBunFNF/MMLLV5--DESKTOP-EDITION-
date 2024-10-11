@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfge.png">
+<SubTexture name="bfge Idle0000" x="1106" y="464" width="208" height="226" frameX="-176" frameY="-232" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0001" x="1106" y="464" width="208" height="226" frameX="-176" frameY="-232" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0002" x="1106" y="690" width="210" height="223" frameX="-177" frameY="-233" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0003" x="1106" y="690" width="210" height="223" frameX="-177" frameY="-233" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0004" x="1106" y="233" width="219" height="231" frameX="-177" frameY="-226" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0005" x="1106" y="233" width="219" height="231" frameX="-177" frameY="-226" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0006" x="719" y="588" width="232" height="235" frameX="-173" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0007" x="719" y="588" width="232" height="235" frameX="-173" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0008" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0009" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0010" x="1106" y="0" width="234" height="233" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0011" x="1106" y="0" width="234" height="233" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0012" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0013" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0014" x="1106" y="0" width="234" height="233" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0015" x="1106" y="0" width="234" height="233" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0016" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0017" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0018" x="1106" y="0" width="234" height="233" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0019" x="1106" y="0" width="234" height="233" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0020" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0021" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0022" x="1106" y="0" width="234" height="233" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0023" x="1106" y="0" width="234" height="233" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0024" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Idle0025" x="249" y="836" width="235" height="234" frameX="-174" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0000" x="0" y="836" width="249" height="235" frameX="-116" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0001" x="0" y="836" width="249" height="235" frameX="-116" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0002" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0003" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0004" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0005" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0006" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0007" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0008" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0009" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0010" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0011" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0012" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0013" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0014" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0015" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0016" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0017" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0018" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0019" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0020" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0021" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0022" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0023" x="484" y="836" width="247" height="234" frameX="-137" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0024" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left0025" x="731" y="836" width="246" height="234" frameX="-139" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0000" x="197" y="0" width="180" height="299" frameX="-205" frameY="-158" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0001" x="197" y="0" width="180" height="299" frameX="-205" frameY="-158" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0002" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0003" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0004" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0005" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0006" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0007" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0008" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0009" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0010" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0011" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0012" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0013" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0014" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0015" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0016" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0017" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0018" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0019" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0020" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0021" x="192" y="317" width="194" height="271" frameX="-206" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0022" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up0023" x="0" y="317" width="192" height="271" frameX="-208" frameY="-186" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0000" x="597" y="263" width="244" height="237" frameX="-219" frameY="-217" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0001" x="597" y="263" width="244" height="237" frameX="-219" frameY="-217" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0002" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0003" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0004" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0005" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0006" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0007" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0008" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0009" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0010" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0011" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0012" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0013" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0014" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0015" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0016" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0017" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0018" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0019" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0020" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0021" x="487" y="588" width="232" height="237" frameX="-217" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right0022" x="255" y="588" width="232" height="237" frameX="-218" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0000" x="715" y="1071" width="235" height="192" frameX="-187" frameY="-271" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0001" x="715" y="1071" width="235" height="192" frameX="-187" frameY="-271" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0002" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0003" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0004" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0005" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0006" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0007" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0008" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0009" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0010" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0011" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0012" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0013" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0014" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0015" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0016" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0017" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0018" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0019" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0020" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0021" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0022" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0023" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0024" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0025" x="386" y="317" width="207" height="211" frameX="-195" frameY="-250" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0026" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down0027" x="510" y="1071" width="205" height="209" frameX="-195" frameY="-251" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0000" x="842" y="262" width="263" height="248" frameX="-108" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0001" x="842" y="262" width="263" height="248" frameX="-108" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0002" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0003" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0004" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0005" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0006" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0007" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0008" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0009" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0010" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0011" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0012" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0013" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0014" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0015" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0016" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0017" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0018" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0019" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0020" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0021" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Left Miss0022" x="0" y="588" width="255" height="248" frameX="-136" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0000" x="0" y="0" width="197" height="317" frameX="-205" frameY="-149" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0001" x="0" y="0" width="197" height="317" frameX="-205" frameY="-149" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0002" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0003" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0004" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0005" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0006" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0007" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0008" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0009" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0010" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0011" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0012" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0013" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0014" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0015" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0016" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0017" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0018" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0019" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0020" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0021" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0022" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Up Miss0023" x="377" y="0" width="220" height="294" frameX="-193" frameY="-172" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0000" x="842" y="0" width="264" height="262" frameX="-212" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0001" x="842" y="0" width="264" height="262" frameX="-212" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0002" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0003" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0004" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0005" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0006" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0007" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0008" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0009" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0010" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0011" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0012" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0013" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0014" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0015" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0016" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0017" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0018" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0019" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Right Miss0020" x="597" y="0" width="245" height="263" frameX="-210" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0000" x="243" y="1071" width="267" height="215" frameX="-168" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0001" x="243" y="1071" width="267" height="215" frameX="-168" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0002" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0003" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0004" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0005" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0006" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0007" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0008" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0009" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0010" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0011" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0012" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0013" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0014" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0015" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0016" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0017" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0018" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0019" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0020" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0021" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0022" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0023" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0024" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0025" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0026" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+<SubTexture name="bfge Down Miss0027" x="0" y="1071" width="243" height="232" frameX="-180" frameY="-239" frameWidth="600" frameHeight="600" />
+</TextureAtlas>
