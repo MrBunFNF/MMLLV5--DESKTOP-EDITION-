@@ -6437,6 +6437,36 @@
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"altAnim": false
+			},
+			{
+				"sectionBeats": 4,
+				"bpm": 172,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"sectionBeats": 4,
+				"bpm": 172,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"sectionBeats": 4,
+				"bpm": 172,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player3": null,
@@ -6463,7 +6493,7 @@
 				[
 					[
 						"CAMZOOM",
-						"0.90",
+						"1",
 						"2"
 					]
 				]
@@ -6533,7 +6563,7 @@
 				[
 					[
 						"CAMZOOM",
-						"1.05",
+						"0.9",
 						"1"
 					]
 				]
@@ -6753,7 +6783,7 @@
 				[
 					[
 						"CAMZOOM",
-						"1",
+						"0.9",
 						"6"
 					]
 				]

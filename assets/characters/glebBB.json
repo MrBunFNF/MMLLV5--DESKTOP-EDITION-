@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"anim": "singUP",
+			"name": "BBUp",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-160,
+				-100
+			]
+		},
+		{
+			"anim": "singLEFT",
+			"name": "BBLeft",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				30,
+				-170
+			]
+		},
+		{
+			"anim": "singDOWN",
+			"name": "BBDown",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-70,
+				-210
+			]
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "BBRight",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-130,
+				-180
+			]
+		}
+	],
+	"image": "characters/GlebBB",
+	"scale": 1,
+	"sing_duration": 6.1,
+	"healthicon": "gleb",
+	"position": [
+		-370,
+		-190
+	],
+	"camera_position": [
+		80,
+		180
+	],
+	"flip_x": false,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		98,
+		82,
+		66
+	]
+}

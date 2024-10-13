@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"anim": "firstDeath",
+			"name": "firstDeath",
+			"fps": 24,
+			"loop": true,
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "deathLoop",
+			"name": "deathLoop",
+			"fps": 24,
+			"loop": true,
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "deathConfirm",
+			"name": "deathConfirm",
+			"fps": 24,
+			"loop": true,
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "characters/edeath",
+	"scale": 1,
+	"sing_duration": 6.1,
+	"healthicon": "",
+	"position": [
+		0,
+		70
+	],
+	"camera_position": [
+		-510,
+		10
+	],
+	"flip_x": false,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		92,
+		63,
+		54
+	]
+}
