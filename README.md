@@ -2,10 +2,31 @@
  
 THIS IS THE FAMOUS LIVE LEAK MOD IN HTML 
 
+# (SONGS THAT ARE CURRETLY IN THE BUILD)
+
+* TREATMENT V6
+
+* POKA
+
+* Tranny Outrage
+
+* 420
+
+* Gore
+
+* Glebs Good Ending
+
+
+
 ![Niggareally](https://github.com/user-attachments/assets/3e485756-8d3d-4e5f-8f69-d02b43b31790)
 
-PORT MADE BY LITTLE SKUMZ
+PORT MADE BY BENZ
 
 HUGE THXS TO NAXINET, ACSMAN, ANGELPLAY3, LUMA, BUGGLES, STAVRATUM, TOADSTOLS, TOADR, AND SEAL|
 
 # This is still underdev {Curretly on V0.3.5}
+
+MORE UPDATES COMING SOON
+
+# JOIN SKUMZCORDIA TO GET LIVE UPDATES
+https://discord.gg/6yQskFaxmn
